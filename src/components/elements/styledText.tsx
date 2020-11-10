@@ -5,7 +5,7 @@ interface Props {
   type?: string;
   style?: Object;
 }
-const StyledText = (props: Props) => {
+const StyledText: React.FC<Props> = props => {
   return (
     <Text
       {...props}

@@ -7,18 +7,18 @@ import {Colors} from '../../constants';
 
 type NavigationProp = BottomTabNavigationProp<
   AppStackParamsList,
-  AppScreens.Home
+  AppScreens.Messaging
 >;
 
 interface Props {
   navigation: NavigationProp;
 }
 
-const Home = ({}: Props) => {
+const Messaging = ({}: Props) => {
   return (
     <Fragment>
       <View style={styles.container}>
-        <StyledText type={'bold'}>Hello from home</StyledText>
+        <StyledText type={'bold'}>Hello from Messaging</StyledText>
       </View>
     </Fragment>
   );
@@ -33,4 +33,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default Home;
+export default Messaging;

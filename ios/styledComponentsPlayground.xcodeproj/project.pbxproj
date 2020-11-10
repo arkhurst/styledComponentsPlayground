@@ -19,9 +19,9 @@
 		2DCD954D1E0B4F2C00145EB5 /* styledComponentsPlaygroundTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* styledComponentsPlaygroundTests.m */; };
 		3661B5192C3C8A22B3690F46 /* libPods-styledComponentsPlayground.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EE48C101BA977A75956E2761 /* libPods-styledComponentsPlayground.a */; };
 		5455907A2D2B5678F22270D7 /* libPods-styledComponentsPlayground-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AC1B40567A5F1B596DA0F8B1 /* libPods-styledComponentsPlayground-tvOSTests.a */; };
-		DE20C647002082D83F600AFC /* libPods-styledComponentsPlaygroundTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F1A09B20DA309550BCB21BB3 /* libPods-styledComponentsPlaygroundTests.a */; };
-		CCF1BCAE949B4F6D81DCEF30 /* BeVietnam-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 92B8289135E8439DBDC7DC85 /* BeVietnam-Medium.ttf */; };
 		CB453EA770574EFDA2BAE52E /* BeVietnam-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F78CE27702DD4B63842C8168 /* BeVietnam-Regular.ttf */; };
+		CCF1BCAE949B4F6D81DCEF30 /* BeVietnam-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 92B8289135E8439DBDC7DC85 /* BeVietnam-Medium.ttf */; };
+		DE20C647002082D83F600AFC /* libPods-styledComponentsPlaygroundTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F1A09B20DA309550BCB21BB3 /* libPods-styledComponentsPlaygroundTests.a */; };
 		E4A2B7870E3D41648A53939E /* BeVietnam-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 82D012E013BC46D2AD59F95E /* BeVietnam-SemiBold.ttf */; };
 /* End PBXBuildFile section */
 
@@ -59,6 +59,8 @@
 		5BB6323C523F0415B79DBEE2 /* Pods-styledComponentsPlayground.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-styledComponentsPlayground.debug.xcconfig"; path = "Target Support Files/Pods-styledComponentsPlayground/Pods-styledComponentsPlayground.debug.xcconfig"; sourceTree = "<group>"; };
 		6C44219EFEA950D153E7BB0B /* Pods-styledComponentsPlayground-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-styledComponentsPlayground-tvOS.release.xcconfig"; path = "Target Support Files/Pods-styledComponentsPlayground-tvOS/Pods-styledComponentsPlayground-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		747B971C6B0CB0F3DF2CA583 /* Pods-styledComponentsPlayground-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-styledComponentsPlayground-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-styledComponentsPlayground-tvOS/Pods-styledComponentsPlayground-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		82D012E013BC46D2AD59F95E /* BeVietnam-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BeVietnam-SemiBold.ttf"; path = "../src/assets/fonts/BeVietnam-SemiBold.ttf"; sourceTree = "<group>"; };
+		92B8289135E8439DBDC7DC85 /* BeVietnam-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BeVietnam-Medium.ttf"; path = "../src/assets/fonts/BeVietnam-Medium.ttf"; sourceTree = "<group>"; };
 		A1FCB187E717A79F028F1CAF /* Pods-styledComponentsPlaygroundTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-styledComponentsPlaygroundTests.debug.xcconfig"; path = "Target Support Files/Pods-styledComponentsPlaygroundTests/Pods-styledComponentsPlaygroundTests.debug.xcconfig"; sourceTree = "<group>"; };
 		AC1B40567A5F1B596DA0F8B1 /* libPods-styledComponentsPlayground-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-styledComponentsPlayground-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B10ECBAABD4B8362AB240E07 /* Pods-styledComponentsPlaygroundTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-styledComponentsPlaygroundTests.release.xcconfig"; path = "Target Support Files/Pods-styledComponentsPlaygroundTests/Pods-styledComponentsPlaygroundTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -70,9 +72,7 @@
 		EE48C101BA977A75956E2761 /* libPods-styledComponentsPlayground.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-styledComponentsPlayground.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1A09B20DA309550BCB21BB3 /* libPods-styledComponentsPlaygroundTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-styledComponentsPlaygroundTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1D0EC83FC43B4C705071E61 /* libPods-styledComponentsPlayground-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-styledComponentsPlayground-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		92B8289135E8439DBDC7DC85 /* BeVietnam-Medium.ttf */ = {isa = PBXFileReference; name = "BeVietnam-Medium.ttf"; path = "../src/assets/fonts/BeVietnam-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		F78CE27702DD4B63842C8168 /* BeVietnam-Regular.ttf */ = {isa = PBXFileReference; name = "BeVietnam-Regular.ttf"; path = "../src/assets/fonts/BeVietnam-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		82D012E013BC46D2AD59F95E /* BeVietnam-SemiBold.ttf */ = {isa = PBXFileReference; name = "BeVietnam-SemiBold.ttf"; path = "../src/assets/fonts/BeVietnam-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F78CE27702DD4B63842C8168 /* BeVietnam-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "BeVietnam-Regular.ttf"; path = "../src/assets/fonts/BeVietnam-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,6 +171,17 @@
 			path = Pods;
 			sourceTree = "<group>";
 		};
+		553EF5A88F6D42749AE29026 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				92B8289135E8439DBDC7DC85 /* BeVietnam-Medium.ttf */,
+				F78CE27702DD4B63842C8168 /* BeVietnam-Regular.ttf */,
+				82D012E013BC46D2AD59F95E /* BeVietnam-SemiBold.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -205,17 +216,6 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		553EF5A88F6D42749AE29026 /* Resources */ = {
-			isa = "PBXGroup";
-			children = (
-				92B8289135E8439DBDC7DC85 /* BeVietnam-Medium.ttf */,
-				F78CE27702DD4B63842C8168 /* BeVietnam-Regular.ttf */,
-				82D012E013BC46D2AD59F95E /* BeVietnam-SemiBold.ttf */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-			path = "";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -248,6 +248,7 @@
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				2D5DDE8AA2DCEC647D524EB3 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -429,6 +430,54 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+		};
+		2D5DDE8AA2DCEC647D524EB3 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-styledComponentsPlayground/Pods-styledComponentsPlayground-resources.sh",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Feather.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Brands.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Regular.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Solid.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Fontisto.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Foundation.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Ionicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialCommunityIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-styledComponentsPlayground/Pods-styledComponentsPlayground-resources.sh\"\n";
+			showEnvVarsInLog = 0;
 		};
 		3897A6C808FF5FB2C587371D /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
